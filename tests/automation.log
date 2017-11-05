@@ -1,0 +1,52 @@
+11/05/2017 11:33:33 AM - HomePage - INFO: Element found with locator: //a[text()="user's Blog!"] and  locatorType: xpath
+11/05/2017 11:33:33 AM - HomePage - INFO: Element present with locator: //a[text()="user's Blog!"] locatorType: xpath
+11/05/2017 11:33:49 AM - LoginPage - INFO: Element found with locator: //section[@id='meta-2']//a[text()='Log in'] and  locatorType: xpath
+11/05/2017 11:33:51 AM - LoginPage - INFO: Clicked on element with locator: //section[@id='meta-2']//a[text()='Log in'] locatorType: xpath
+11/05/2017 11:33:51 AM - LoginPage - INFO: Element found with locator: //input[@id='user_login'] and  locatorType: xpath
+11/05/2017 11:33:51 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='user_login'] locatorType: xpath
+11/05/2017 11:33:51 AM - LoginPage - INFO: Element found with locator: //input[@id='user_pass'] and  locatorType: xpath
+11/05/2017 11:33:51 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='user_pass'] locatorType: xpath
+11/05/2017 11:33:51 AM - LoginPage - INFO: Element found with locator: //input[@id='wp-submit'] and  locatorType: xpath
+11/05/2017 11:33:57 AM - LoginPage - INFO: Clicked on element with locator: //input[@id='wp-submit'] locatorType: xpath
+11/05/2017 11:33:58 AM - LoginPage - INFO: Element found with locator: //li[@id='wp-admin-bar-new-content']/a/span[2] and  locatorType: xpath
+11/05/2017 11:34:01 AM - LoginPage - INFO: Clicked on element with locator: //li[@id='wp-admin-bar-new-content']/a/span[2] locatorType: xpath
+11/05/2017 11:34:01 AM - LoginPage - INFO: Element found with locator: //label[@id='title-prompt-text'] and  locatorType: xpath
+11/05/2017 11:34:01 AM - LoginPage - INFO: Sent data on element with locator: //label[@id='title-prompt-text'] locatorType: xpath
+11/05/2017 11:34:01 AM - LoginPage - INFO: Element found with locator: //textarea[@id='content'] and  locatorType: xpath
+11/05/2017 11:34:01 AM - LoginPage - INFO: Sent data on element with locator: //textarea[@id='content'] locatorType: xpath
+11/05/2017 11:34:01 AM - LoginPage - INFO: Element found with locator: //input[@id='publish'] and  locatorType: xpath
+11/05/2017 11:34:05 AM - LoginPage - INFO: Clicked on element with locator: //input[@id='publish'] locatorType: xpath
+11/05/2017 11:34:05 AM - LoginPage - INFO: Element found with locator: //div[@id='message']/p/a and  locatorType: xpath
+11/05/2017 11:34:08 AM - LoginPage - INFO: Clicked on element with locator: //div[@id='message']/p/a locatorType: xpath
+11/05/2017 11:34:24 AM - LoginPage - INFO: Element found with locator: (//article[1]//h3/a[contains(text(), 'This is a blog by a test_user')]) and  locatorType: xpath
+11/05/2017 11:34:24 AM - LoginPage - INFO: Element present with locator: (//article[1]//h3/a[contains(text(), 'This is a blog by a test_user')]) locatorType: xpath
+11/05/2017 11:34:52 AM - LoginPage - INFO: Element found with locator: //article[1]/div/p[contains(b/text(), 'anything')] and  locatorType: xpath
+11/05/2017 11:34:52 AM - LoginPage - INFO: Element present with locator: //article[1]/div/p[contains(b/text(), 'anything')] locatorType: xpath
+11/05/2017 11:35:10 AM - CommentPage - INFO: Element found with locator: //article[1]//h3 and  locatorType: xpath
+11/05/2017 11:35:11 AM - CommentPage - INFO: Clicked on element with locator: //article[1]//h3 locatorType: xpath
+11/05/2017 11:35:11 AM - CommentPage - INFO: Element found with locator: //textarea[@id='comment'] and  locatorType: xpath
+11/05/2017 11:35:11 AM - CommentPage - INFO: Sent data on element with locator: //textarea[@id='comment'] locatorType: xpath
+11/05/2017 11:35:11 AM - CommentPage - INFO: Element found with locator: //input[@id='author'] and  locatorType: xpath
+11/05/2017 11:35:11 AM - CommentPage - INFO: Sent data on element with locator: //input[@id='author'] locatorType: xpath
+11/05/2017 11:35:11 AM - CommentPage - INFO: Element found with locator: //input[@id='email'] and  locatorType: xpath
+11/05/2017 11:35:11 AM - CommentPage - INFO: Sent data on element with locator: //input[@id='email'] locatorType: xpath
+11/05/2017 11:35:11 AM - CommentPage - INFO: Element found with locator: //input[@id='submit'] and  locatorType: xpath
+11/05/2017 11:35:15 AM - CommentPage - INFO: Clicked on element with locator: //input[@id='submit'] locatorType: xpath
+11/05/2017 11:35:15 AM - CommentPage - INFO: Element found with locator: //ol[@class='comment-list']//b[contains(text(), 'User 1')] and  locatorType: xpath
+11/05/2017 11:35:15 AM - CommentPage - INFO: Element present with locator: //ol[@class='comment-list']//b[contains(text(), 'User 1')] locatorType: xpath
+11/05/2017 11:35:15 AM - CommentPage - INFO: Element found with locator: //div[@class='comment-content']/p[contains(text(), 'Comment by user 1')] and  locatorType: xpath
+11/05/2017 11:35:15 AM - CommentPage - INFO: Element present with locator: //div[@class='comment-content']/p[contains(text(), 'Comment by user 1')] locatorType: xpath
+11/05/2017 11:35:44 AM - CommentPage - INFO: Element found with locator: //article[1]//h3 and  locatorType: xpath
+11/05/2017 11:35:45 AM - CommentPage - INFO: Clicked on element with locator: //article[1]//h3 locatorType: xpath
+11/05/2017 11:35:45 AM - CommentPage - INFO: Element found with locator: //textarea[@id='comment'] and  locatorType: xpath
+11/05/2017 11:35:45 AM - CommentPage - INFO: Sent data on element with locator: //textarea[@id='comment'] locatorType: xpath
+11/05/2017 11:35:45 AM - CommentPage - INFO: Element found with locator: //input[@id='author'] and  locatorType: xpath
+11/05/2017 11:35:45 AM - CommentPage - INFO: Sent data on element with locator: //input[@id='author'] locatorType: xpath
+11/05/2017 11:35:45 AM - CommentPage - INFO: Element found with locator: //input[@id='email'] and  locatorType: xpath
+11/05/2017 11:35:45 AM - CommentPage - INFO: Sent data on element with locator: //input[@id='email'] locatorType: xpath
+11/05/2017 11:35:45 AM - CommentPage - INFO: Element found with locator: //input[@id='submit'] and  locatorType: xpath
+11/05/2017 11:35:49 AM - CommentPage - INFO: Clicked on element with locator: //input[@id='submit'] locatorType: xpath
+11/05/2017 11:35:49 AM - CommentPage - INFO: Element found with locator: //ol[@class='comment-list']//b[contains(text(), 'User 2')] and  locatorType: xpath
+11/05/2017 11:35:49 AM - CommentPage - INFO: Element present with locator: //ol[@class='comment-list']//b[contains(text(), 'User 2')] locatorType: xpath
+11/05/2017 11:35:49 AM - CommentPage - INFO: Element found with locator: //div[@class='comment-content']/p[contains(text(), 'Comment by user 2')] and  locatorType: xpath
+11/05/2017 11:35:49 AM - CommentPage - INFO: Element present with locator: //div[@class='comment-content']/p[contains(text(), 'Comment by user 2')] locatorType: xpath

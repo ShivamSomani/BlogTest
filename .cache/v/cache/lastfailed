@@ -1,0 +1,10 @@
+{
+  "tests/comment/comment_tests.py::CommentPageCommentTests::test_addComment": true,
+  "tests/comment/comment_tests.py::CommentPageCommentTests::test_addReplyComment": true,
+  "tests/courses/register_courses_tests.py::RegisterCoursesTests::test_invalidEnrollment": true,
+  "tests/home/login_tests.py::LoginTests::test_validLogin1": true,
+  "tests/home/login_tests.py::LoginTests::test_verifyResponseCode": true,
+  "tests/login/login_tests.py::LoginPagePublishTests::test_verifyBlogTitle": true,
+  "tests/test_suite_demo.py::LoginTests::test_validLogin1": true,
+  "tests/test_suite_demo.py::LoginTests::test_verifyBlogTitle": true
+}
