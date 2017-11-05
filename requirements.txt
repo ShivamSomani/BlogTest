@@ -22,4 +22,5 @@ pytest >= 3.2.3
 requests >= 2.18.4
 pytest-html >= 1.16.0 
 selenium == 3.6.0
-pytest-ordering >= 0.5 
+pytest-ordering >= 0.5
+
