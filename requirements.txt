@@ -1,0 +1,25 @@
+﻿# ============================================================================
+# PYTHON PACKAGE REQUIREMENTS:
+# ============================================================================
+# REQUIRES: Python >= 3.6.3
+# DESCRIPTION:
+#    pip3 install -r <THIS_FILE>
+#
+# SPECIFIC DEPENDENCIES:
+#   pytest-- Python testing framework for unit, acceptance and functional testing.
+#   selenium -- To drive the browser tests
+#   Pytest-ordering -- For ordering of execution of tests
+#   Pytest-html -- For generating reports 
+#   requests -- Python HTTP for humans
+	
+# MAYBE:
+#   nose:       for assertions: eq_(x, y)
+#  
+# ============================================================================
+
+
+pytest >= 3.2.3 
+requests >= 2.18.4
+pytest-html >= 1.16.0 
+selenium == 3.6.0
+pytest-ordering >= 0.5 
