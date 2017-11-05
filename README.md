@@ -15,10 +15,14 @@ Any browser (Firefox, Chrome, IE or Safari)
 
 **Running the tests**
 a. Install the requirements
+
 b. Clone or download the project directory
+
 c. Traverse to the downloaded/clonned project directory
+
 d. To run scripts for uitest--
- ***`***py.test -s -v tests/test_suite_demo.py --html=report.html***`***
+
+***`***py.test -s -v tests/test_suite_demo.py --html=report.html***`***
 
 
 **Built with**
